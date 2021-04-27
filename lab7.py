@@ -31,7 +31,6 @@ def f1(a,b):
       return
     yield i
 
-#wymienic na 10000  
 print(list(f1(dosk(licz()), 100)))
 
 #2
